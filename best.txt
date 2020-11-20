@@ -1,0 +1,4 @@
+snake game
+to collect the golden apple
+the snake if being chased by some mungoos
+and the snake needs the golden apple to slither faster
